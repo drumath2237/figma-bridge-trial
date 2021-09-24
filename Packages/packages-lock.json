@@ -11,6 +11,17 @@
       },
       "url": "https://pkgs.dev.azure.com/aipmr/MixedReality-Unity-Packages/_packaging/Unity-packages/npm/registry"
     },
+    "com.microsoft.mixedreality.toolkit.figmabridge": {
+      "version": "0.1.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.microsoft.mixedreality.toolkit.foundation": "2.7.0",
+        "com.unity.nuget.newtonsoft-json": "2.0.0",
+        "com.unity.textmeshpro": "2.1.4"
+      },
+      "url": "https://pkgs.dev.azure.com/aipmr/MixedReality-Unity-Packages/_packaging/Unity-packages/npm/registry"
+    },
     "com.microsoft.mixedreality.toolkit.foundation": {
       "version": "2.7.2",
       "depth": 0,

@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "com.microsoft.mixedreality.openxr": "1.0.3",
+    "com.microsoft.mixedreality.toolkit.figmabridge": "0.1.1",
     "com.microsoft.mixedreality.toolkit.foundation": "2.7.2",
     "com.microsoft.mixedreality.toolkit.tools": "2.7.2",
     "com.unity.collab-proxy": "1.5.7",
